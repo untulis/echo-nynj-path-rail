@@ -18,9 +18,7 @@ TOOO
  - set up prod lambda
 4. Get This to Build
  - set up codedeploy
- - jenkins server on EC2?
- - trigger EC2 start from github hook?
- - retrigger Jenkins for commit?
+ - set up codepipeline
 5. Get It Tested
  - nose tests
  - alexa integration tests?
@@ -28,7 +26,7 @@ TOOO
  - parse schedules
  - intent for next train
  - intent for train schedule from station to station
- - setup Cloudwatch events
+ - setup lambda scheduled event
  - cache schedules to S3
 7. Get to Know What's Happening
  - setup cloudwatch
